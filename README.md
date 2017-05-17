@@ -1,4 +1,6 @@
 # nwruntb
 nwruntb
 
-copy selenim.jar and chromedriver to root folder
+copy selenim.jar to root folder
+npm install
+node runner.js
