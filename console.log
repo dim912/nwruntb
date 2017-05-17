@@ -1,0 +1,12 @@
+{"google":["\u001b[0;37m\u001b[45m google \u001b[0m  Using already downloaded Selenium from D:\\workspaces\\nwrun_code_base\\nwruntb\\selenium-server
+-standalone-2.47.1.jar","\u001b[0;37m\u001b[45m google \u001b[0m  ","\u001b[0;37m\u001b[45m google \u001b[0m  \u001b[0;31mThere was an error while st
+arting the test runner:\n\u001b[0m","\u001b[0;37m\u001b[45m google \u001b[0m  \u001b[0;90mError: ENOENT: no such file or directory, stat 'D:\\workspa
+ces\\nwrun_code_base\\nwruntb\\tests\\google'\n    at Error (native)\n    at Object.fs.statSync (fs.js:987:18)\n    at Object.singleSourceFile (D:\\w
+orkspaces\\nwrun_code_base\\nwruntb\\node_modules\\nightwatch\\lib\\runner\\cli\\clirunner.js:190:17)\n    at Object.getTestSource (D:\\workspaces\\n
+wrun_code_base\\nwruntb\\node_modules\\nightwatch\\lib\\runner\\cli\\clirunner.js:219:37)\n    at Object.runner (D:\\workspaces\\nwrun_code_base\\nwr
+untb\\node_modules\\nightwatch\\lib\\runner\\cli\\clirunner.js:422:21)\n    at D:\\workspaces\\nwrun_code_base\\nwruntb\\node_modules\\nightwatch\\li
+b\\runner\\cli\\clirunner.js:395:12\n    at D:\\workspaces\\nwrun_code_base\\nwruntb\\node_modules\\nightwatch\\lib\\runner\\cli\\clirunner.js:337:9\
+n    at beforeGlobal (D:\\workspaces\\nwrun_code_base\\nwruntb\\node_modules\\nightwatch\\lib\\runner\\cli\\clirunner.js:333:89)\n    at Object.start
+Selenium (D:\\workspaces\\nwrun_code_base\\nwruntb\\node_modules\\nightwatch\\lib\\runner\\cli\\clirunner.js:336:20)\n    at Object.runTests (D:\\wor
+kspaces\\nwrun_code_base\\nwruntb\\node_modules\\nightwatch\\lib\\runner\\cli\\clirunner.js:393:10)\n\u001b[0m","\u001b[0;37m\u001b[45m google \u001b
+[0m  false"]}

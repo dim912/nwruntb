@@ -9,6 +9,7 @@ nwrun(
         "test_workers": { "enabled": true, "workers": "auto" }
     }
     , function (done) {
+        console.log(JSON.stringify(done))
         if (done === false) {
             process.exit(1);
         }
