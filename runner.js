@@ -6,7 +6,7 @@ nwrun(
             "tests/",
         ],
         "output_folder": "./testReports",
-        "test_workers": { "enabled": true, "workers": "auto" },
+        "test_workers": { "enabled": true, "workers": "auto" }
     }
     , function (done) {
         if (done === false) {
