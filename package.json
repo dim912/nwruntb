@@ -1,0 +1,23 @@
+{
+  "name": "nwruntb",
+  "version": "1.0.0",
+  "description": "nwruntb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dim912/nwruntb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dim912/nwruntb/issues"
+  },
+  "homepage": "https://github.com/dim912/nwruntb#readme",
+  "dependencies": {
+    "nightwatch": "^0.9.15",
+    "nwrun": "^0.3.1"
+  }
+}
