@@ -1,5 +1,4 @@
 # nwruntb
-nwruntb
 
 copy selenim.jar to root folder
 
