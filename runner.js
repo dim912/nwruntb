@@ -5,7 +5,7 @@ nwrun(
         "src_folders": [
             "tests/",
         ],
-        "output_folder": "./testReports/smartview",
+        "output_folder": "./testReports",
         "test_workers": { "enabled": true, "workers": "auto" },
     }
     , function (done) {
